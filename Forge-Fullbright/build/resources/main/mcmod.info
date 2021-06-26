@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Fullbright",
+  "name": "Fullbright",
+  "description": "A way to toggle the lighting of you're game,
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["palmtrww"],
+  "credits": "palmtrww",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
